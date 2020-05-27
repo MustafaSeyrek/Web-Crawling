@@ -1,4 +1,5 @@
 # Web-Crawling
+This was done on Dec 25, 2017.
 
 Your Python Code will firstly go to the website http://finans.mynet.com/borsa/hisseler/adana-
 adana-cimento-a/tarihselveriler/. This website is about market data of “ADANA ÇİMENTO (A)”.
